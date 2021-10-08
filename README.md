@@ -14,7 +14,8 @@
 - Regression Analysis
 
 ## 결과
-* 20160356_김준용(Full Version).pptx
+* 20160356_김준용(Full Version).pptx  
+
 ![image](https://user-images.githubusercontent.com/62223905/136495365-19496881-e2da-4c0a-9965-c0ae96e4b5a5.png)
 ![image](https://user-images.githubusercontent.com/62223905/136495380-d396f693-7716-483a-8a9e-1a5c56f65a56.png)
 
